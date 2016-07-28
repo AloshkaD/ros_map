@@ -1,8 +1,8 @@
- - name: Beijing Jiaotong University
+ - name: University of Aleppo
    type: school
-   address: No.3 Shang Yuan Cun,Hai Dian District Beijing,China Post-Code 100044
-   long: 116.191406
-   lat: 39.97712
+   address:  36.2021° N, 37.1343° E
+   long: 36.2021
+   lat: 37.1343
  - name: Cogniteam
    type: null
    address: Shoam 7 Petah Tikva, Israel
